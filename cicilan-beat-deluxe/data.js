@@ -52,6 +52,24 @@ data = [
         "tanggal" : "25 September 2024",
         "jumlah" : 500000, 
         "bukti" : "https://drive.google.com/file/d/1aVcvNhZ4GUaIoPMBOUF193QpLmygmhtf/view?usp=drive_link"
+    },
+    {
+        "nomor" : 10,
+        "tanggal" : "24 Oktober 2024",
+        "jumlah" : 500000, 
+        "bukti" : "https://drive.google.com/file/d/1NbUlsYbzdSmS_QQwbBHaI7r7ZRel2O59/view?usp=drive_link"
+    },
+    {
+        "nomor" : 11,
+        "tanggal" : "25 November 2024",
+        "jumlah" : 500000, 
+        "bukti" : "https://drive.google.com/file/d/16hxPii_Kt9HZ_b0_ri_CO2GbrDnaX26W/view?usp=drive_link"
+    },
+    {
+        "nomor" : 12,
+        "tanggal" : "24 Desember 2024",
+        "jumlah" : 500000, 
+        "bukti" : "https://drive.google.com/file/d/1RotW8agMmlqtAs8_UqxRe1vwNZnXalHU/view?usp=drive_link"
     }
 
 ];
